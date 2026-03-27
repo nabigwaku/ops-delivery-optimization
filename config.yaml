@@ -1,0 +1,61 @@
+# ── Project Configuration ──────────────────────────────────────────────────
+project:
+  name: "Operations Delivery Performance Analysis"
+  version: "1.0.0"
+  author: "Senior BI & Data Analyst"
+  department: "Operations"
+
+# ── Data Generation ────────────────────────────────────────────────────────
+data:
+  n_deliveries: 520
+  start_date: "2024-01-01"
+  end_date: "2024-06-30"
+  random_seed: 42
+  regions:
+    - Tri-State
+    - Sunbelt
+    - Eastern Seaboard
+    - Pacific Coast
+    - Heartland
+  vehicle_types:
+    - Van
+    - Truck
+    - Motorbike
+  priority_levels:
+    - Standard
+    - Express
+    - Same-Day
+  priority_distribution: [0.60, 0.28, 0.12]   # Standard / Express / Same-Day
+
+# ── Delay Model Parameters ────────────────────────────────────────────────
+delay_model:
+  base_delay_probability:
+    Tri-State:   0.30
+    Sunbelt:   0.18
+    Eastern Seaboard:    0.25
+    Pacific Coast:    0.22
+    Heartland: 0.15
+  truck_penalty: 0.08         # Added to base probability for Trucks
+  delay_exp_scale: 25         # Exponential distribution scale (minutes)
+
+# ── Cost Model Parameters ──────────────────────────────────────────────────
+cost_model:
+  base_cost_usd:
+    Van:       35
+    Truck:     60
+    Motorbike: 20
+  per_minute_rate: 0.45       # USD per actual minute driven
+  delay_penalty:   0.80       # Additional USD per delay minute
+
+# ── Analysis Thresholds ────────────────────────────────────────────────────
+analysis:
+  on_time_target_pct: 80.0    # KPI target (%)
+  min_driver_deliveries: 8    # Minimum deliveries to include driver in rankings
+  csat_poor_threshold: 3.0    # CSAT below this triggers alert
+
+# ── Paths ──────────────────────────────────────────────────────────────────
+paths:
+  raw_data:    "data/raw/deliveries_raw.csv"
+  clean_data:  "data/processed/deliveries_clean.csv"
+  figures:     "reports/figures/"
+  excel:       "excel/operations_dashboard.xlsx"

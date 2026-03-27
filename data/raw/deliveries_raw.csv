@@ -1,0 +1,521 @@
+delivery_id,date,month,region,vehicle_type,priority,planned_duration_min,actual_duration_min,delay_min,is_delayed,delivery_cost_usd,customer_satisfaction,driver_id
+DEL-0099,2024-01-01,January,Eastern Seaboard,Van,Standard,83,83,0,0,72.35,4.6,DRV-022
+DEL-0230,2024-01-01,January,Tri-State,Van,Standard,90,90,0,0,75.5,4.2,DRV-027
+DEL-0269,2024-01-01,January,Heartland,Truck,Express,52,52,0,0,83.4,4.4,DRV-019
+DEL-0395,2024-01-02,January,Eastern Seaboard,Van,Same-Day,67,67,0,0,65.15,4.9,DRV-032
+DEL-0379,2024-01-02,January,Eastern Seaboard,Truck,Express,78,78,0,0,95.1,4.2,DRV-012
+DEL-0467,2024-01-02,January,Pacific Coast,Motorbike,Standard,72,72,0,0,52.4,4.7,DRV-006
+DEL-0160,2024-01-02,January,Pacific Coast,Truck,Express,73,73,0,0,92.85,4.8,DRV-023
+DEL-0036,2024-01-03,January,Eastern Seaboard,Motorbike,Express,43,43,0,0,39.35,4.1,DRV-008
+DEL-0304,2024-01-03,January,Pacific Coast,Truck,Express,74,105,31,1,132.05,3.0,DRV-037
+DEL-0216,2024-01-04,January,Pacific Coast,Van,Same-Day,27,27,0,0,47.15,4.2,DRV-037
+DEL-0201,2024-01-05,January,Pacific Coast,Truck,Standard,93,93,0,0,101.85,4.6,DRV-006
+DEL-0482,2024-01-05,January,Eastern Seaboard,Motorbike,Express,55,55,0,0,44.75,4.5,DRV-023
+DEL-0441,2024-01-05,January,Heartland,Truck,Express,76,77,1,1,95.45,3.3,DRV-024
+DEL-0172,2024-01-05,January,Tri-State,Truck,Express,67,67,0,0,90.15,4.7,DRV-035
+DEL-0244,2024-01-06,January,Heartland,Motorbike,Same-Day,33,33,0,0,34.85,4.6,DRV-018
+DEL-0159,2024-01-06,January,Heartland,Motorbike,Standard,78,78,0,0,55.1,4.1,DRV-037
+DEL-0005,2024-01-07,January,Heartland,Motorbike,Express,47,47,0,0,41.15,4.5,DRV-036
+DEL-0114,2024-01-07,January,Sunbelt,Van,Express,75,76,1,1,70.0,3.5,DRV-013
+DEL-0513,2024-01-07,January,Sunbelt,Van,Same-Day,41,41,0,0,53.45,4.4,DRV-012
+DEL-0167,2024-01-07,January,Heartland,Motorbike,Standard,79,79,0,0,55.55,4.5,DRV-006
+DEL-0343,2024-01-07,January,Tri-State,Motorbike,Standard,63,63,0,0,48.35,4.5,DRV-009
+DEL-0259,2024-01-08,January,Pacific Coast,Van,Express,56,56,0,0,60.2,4.2,DRV-039
+DEL-0309,2024-01-09,January,Eastern Seaboard,Truck,Express,53,58,5,1,90.1,3.6,DRV-038
+DEL-0056,2024-01-09,January,Sunbelt,Van,Standard,89,89,0,0,75.05,4.9,DRV-022
+DEL-0420,2024-01-10,January,Pacific Coast,Truck,Standard,113,113,0,0,110.85,4.6,DRV-004
+DEL-0103,2024-01-10,January,Sunbelt,Motorbike,Same-Day,26,26,0,0,31.7,4.2,DRV-024
+DEL-0465,2024-01-10,January,Sunbelt,Van,Same-Day,33,33,0,0,49.85,4.8,DRV-019
+DEL-0119,2024-01-10,January,Heartland,Truck,Same-Day,38,38,0,0,77.1,4.6,DRV-007
+DEL-0081,2024-01-11,January,Heartland,Motorbike,Standard,71,71,0,0,51.95,4.9,DRV-040
+DEL-0399,2024-01-11,January,Pacific Coast,Motorbike,Standard,70,70,0,0,51.5,4.3,DRV-028
+DEL-0184,2024-01-11,January,Tri-State,Motorbike,Standard,82,97,15,1,75.65,3.2,DRV-023
+DEL-0325,2024-01-12,January,Tri-State,Van,Express,63,63,0,0,63.35,4.0,DRV-003
+DEL-0214,2024-01-12,January,Sunbelt,Truck,Standard,110,110,0,0,109.5,4.4,DRV-004
+DEL-0076,2024-01-13,January,Eastern Seaboard,Van,Standard,98,98,0,0,79.1,4.2,DRV-038
+DEL-0337,2024-01-13,January,Heartland,Van,Express,68,68,0,0,65.6,4.9,DRV-022
+DEL-0471,2024-01-13,January,Eastern Seaboard,Van,Express,48,69,21,1,82.85,2.4,DRV-016
+DEL-0492,2024-01-13,January,Eastern Seaboard,Truck,Express,82,82,0,0,96.9,4.1,DRV-022
+DEL-0218,2024-01-14,January,Eastern Seaboard,Van,Standard,75,75,0,0,68.75,4.1,DRV-017
+DEL-0461,2024-01-14,January,Tri-State,Truck,Standard,96,96,0,0,103.2,4.8,DRV-026
+DEL-0255,2024-01-14,January,Pacific Coast,Truck,Standard,116,169,53,1,178.45,2.9,DRV-013
+DEL-0237,2024-01-16,January,Sunbelt,Van,Standard,99,99,0,0,79.55,4.8,DRV-011
+DEL-0219,2024-01-17,January,Pacific Coast,Van,Standard,90,90,0,0,75.5,4.4,DRV-026
+DEL-0347,2024-01-17,January,Tri-State,Motorbike,Express,49,87,38,1,89.55,2.0,DRV-031
+DEL-0487,2024-01-17,January,Sunbelt,Van,Standard,93,107,14,1,94.35,3.1,DRV-030
+DEL-0034,2024-01-17,January,Pacific Coast,Motorbike,Same-Day,36,36,0,0,36.2,4.7,DRV-025
+DEL-0507,2024-01-18,January,Tri-State,Van,Same-Day,43,67,24,1,84.35,2.0,DRV-016
+DEL-0285,2024-01-18,January,Tri-State,Motorbike,Standard,97,97,0,0,63.65,4.6,DRV-016
+DEL-0079,2024-01-18,January,Tri-State,Motorbike,Express,43,69,26,1,71.85,1.5,DRV-016
+DEL-0125,2024-01-18,January,Eastern Seaboard,Truck,Standard,119,119,0,0,113.55,4.5,DRV-022
+DEL-0086,2024-01-19,January,Pacific Coast,Truck,Express,89,94,5,1,106.3,3.9,DRV-001
+DEL-0419,2024-01-19,January,Eastern Seaboard,Motorbike,Standard,91,91,0,0,60.95,4.2,DRV-020
+DEL-0315,2024-01-20,January,Tri-State,Truck,Same-Day,63,81,18,1,110.85,3.0,DRV-010
+DEL-0400,2024-01-20,January,Tri-State,Truck,Express,88,88,0,0,99.6,4.2,DRV-021
+DEL-0408,2024-01-20,January,Eastern Seaboard,Van,Same-Day,25,28,3,1,50.0,3.2,DRV-033
+DEL-0152,2024-01-20,January,Eastern Seaboard,Truck,Standard,127,141,14,1,134.65,3.6,DRV-019
+DEL-0421,2024-01-20,January,Eastern Seaboard,Truck,Standard,99,99,0,0,104.55,4.4,DRV-006
+DEL-0435,2024-01-21,January,Sunbelt,Truck,Standard,91,92,1,1,102.2,4.0,DRV-038
+DEL-0013,2024-01-21,January,Tri-State,Truck,Same-Day,53,53,0,0,83.85,4.3,DRV-036
+DEL-0078,2024-01-21,January,Tri-State,Motorbike,Standard,64,64,0,0,48.8,4.5,DRV-012
+DEL-0241,2024-01-21,January,Pacific Coast,Truck,Standard,127,202,75,1,210.9,2.8,DRV-039
+DEL-0385,2024-01-22,January,Heartland,Motorbike,Standard,67,67,0,0,50.15,4.7,DRV-004
+DEL-0427,2024-01-22,January,Eastern Seaboard,Motorbike,Standard,90,90,0,0,60.5,4.3,DRV-033
+DEL-0365,2024-01-22,January,Tri-State,Van,Standard,79,79,0,0,70.55,4.9,DRV-006
+DEL-0252,2024-01-23,January,Tri-State,Truck,Standard,121,129,8,1,124.45,3.9,DRV-021
+DEL-0192,2024-01-23,January,Eastern Seaboard,Van,Standard,78,78,0,0,70.1,4.9,DRV-018
+DEL-0317,2024-01-24,January,Heartland,Truck,Standard,110,110,0,0,109.5,4.5,DRV-026
+DEL-0286,2024-01-24,January,Eastern Seaboard,Van,Standard,90,90,0,0,75.5,4.5,DRV-028
+DEL-0010,2024-01-24,January,Eastern Seaboard,Van,Same-Day,64,64,0,0,63.8,4.7,DRV-025
+DEL-0243,2024-01-24,January,Eastern Seaboard,Van,Same-Day,68,186,118,1,213.1,1.9,DRV-015
+DEL-0433,2024-01-25,January,Tri-State,Truck,Standard,123,136,13,1,131.6,4.0,DRV-036
+DEL-0362,2024-01-25,January,Pacific Coast,Motorbike,Standard,91,91,0,0,60.95,4.2,DRV-021
+DEL-0017,2024-01-26,January,Tri-State,Van,Express,52,52,0,0,58.4,4.6,DRV-025
+DEL-0278,2024-01-26,January,Heartland,Truck,Standard,115,115,0,0,111.75,4.6,DRV-029
+DEL-0211,2024-01-26,January,Heartland,Truck,Standard,128,189,61,1,193.85,2.2,DRV-013
+DEL-0227,2024-01-26,January,Heartland,Motorbike,Standard,83,113,30,1,94.85,2.0,DRV-014
+DEL-0002,2024-01-27,January,Sunbelt,Van,Express,63,63,0,0,63.35,4.0,DRV-035
+DEL-0040,2024-01-28,January,Sunbelt,Motorbike,Standard,69,69,0,0,51.05,4.1,DRV-020
+DEL-0301,2024-01-28,January,Pacific Coast,Truck,Express,53,53,0,0,83.85,4.5,DRV-016
+DEL-0390,2024-01-29,January,Eastern Seaboard,Truck,Express,79,96,17,1,116.8,3.2,DRV-019
+DEL-0102,2024-01-29,January,Heartland,Van,Express,57,57,0,0,60.65,4.6,DRV-005
+DEL-0402,2024-01-30,January,Pacific Coast,Truck,Standard,100,186,86,1,212.5,2.0,DRV-026
+DEL-0094,2024-01-30,January,Sunbelt,Truck,Express,58,75,17,1,107.35,3.1,DRV-007
+DEL-0253,2024-01-30,January,Eastern Seaboard,Truck,Standard,102,102,0,0,105.9,4.5,DRV-026
+DEL-0262,2024-01-30,January,Tri-State,Van,Standard,75,75,0,0,68.75,4.5,DRV-030
+DEL-0326,2024-01-30,January,Eastern Seaboard,Truck,Same-Day,45,45,0,0,80.25,4.9,DRV-007
+DEL-0235,2024-01-30,January,Sunbelt,Truck,Express,81,81,0,0,96.45,5.0,DRV-035
+DEL-0222,2024-01-31,January,Tri-State,Van,Same-Day,29,104,75,1,141.8,2.3,DRV-036
+DEL-0208,2024-01-31,January,Sunbelt,Truck,Same-Day,58,79,21,1,112.35,2.0,DRV-035
+DEL-0277,2024-02-02,February,Pacific Coast,Van,Express,65,65,0,0,64.25,4.1,DRV-033
+DEL-0047,2024-02-02,February,Heartland,Van,Express,67,67,0,0,65.15,4.3,DRV-031
+DEL-0165,2024-02-02,February,Sunbelt,Truck,Standard,105,105,0,0,107.25,4.9,DRV-040
+DEL-0446,2024-02-03,February,Eastern Seaboard,Motorbike,Standard,84,84,0,0,57.8,5.0,DRV-039
+DEL-0310,2024-02-03,February,Eastern Seaboard,Motorbike,Standard,74,74,0,0,53.3,4.4,DRV-006
+DEL-0085,2024-02-03,February,Eastern Seaboard,Truck,Standard,119,119,0,0,113.55,4.7,DRV-020
+DEL-0396,2024-02-03,February,Pacific Coast,Van,Express,54,54,0,0,59.3,4.1,DRV-025
+DEL-0517,2024-02-04,February,Sunbelt,Van,Standard,91,91,0,0,75.95,4.1,DRV-005
+DEL-0327,2024-02-04,February,Sunbelt,Motorbike,Express,65,65,0,0,49.25,4.4,DRV-025
+DEL-0154,2024-02-05,February,Heartland,Van,Standard,81,81,0,0,71.45,4.5,DRV-010
+DEL-0466,2024-02-05,February,Pacific Coast,Motorbike,Standard,78,78,0,0,55.1,4.9,DRV-031
+DEL-0455,2024-02-05,February,Sunbelt,Motorbike,Express,45,45,0,0,40.25,4.8,DRV-017
+DEL-0065,2024-02-05,February,Heartland,Truck,Standard,87,87,0,0,99.15,4.0,DRV-028
+DEL-0475,2024-02-06,February,Heartland,Van,Express,39,39,0,0,52.55,4.8,DRV-019
+DEL-0138,2024-02-07,February,Sunbelt,Van,Standard,68,68,0,0,65.6,4.9,DRV-002
+DEL-0459,2024-02-07,February,Pacific Coast,Motorbike,Express,49,49,0,0,42.05,4.8,DRV-028
+DEL-0266,2024-02-07,February,Pacific Coast,Motorbike,Standard,80,80,0,0,56.0,4.3,DRV-025
+DEL-0411,2024-02-07,February,Sunbelt,Van,Express,72,72,0,0,67.4,4.8,DRV-017
+DEL-0104,2024-02-07,February,Heartland,Motorbike,Same-Day,31,119,88,1,143.95,1.6,DRV-028
+DEL-0236,2024-02-08,February,Sunbelt,Motorbike,Standard,77,77,0,0,54.65,4.4,DRV-018
+DEL-0263,2024-02-09,February,Tri-State,Motorbike,Express,53,53,0,0,43.85,5.0,DRV-032
+DEL-0108,2024-02-09,February,Heartland,Motorbike,Standard,92,92,0,0,61.4,4.9,DRV-016
+DEL-0033,2024-02-09,February,Tri-State,Van,Standard,95,99,4,1,82.75,3.6,DRV-011
+DEL-0509,2024-02-09,February,Tri-State,Motorbike,Standard,74,74,0,0,53.3,4.6,DRV-029
+DEL-0175,2024-02-09,February,Tri-State,Motorbike,Standard,78,78,0,0,55.1,4.0,DRV-016
+DEL-0009,2024-02-09,February,Eastern Seaboard,Truck,Standard,101,118,17,1,126.7,3.0,DRV-014
+DEL-0329,2024-02-09,February,Pacific Coast,Motorbike,Express,48,48,0,0,41.6,4.1,DRV-027
+DEL-0149,2024-02-10,February,Heartland,Truck,Same-Day,51,51,0,0,82.95,4.9,DRV-031
+DEL-0111,2024-02-10,February,Sunbelt,Truck,Same-Day,31,31,0,0,73.95,4.7,DRV-007
+DEL-0008,2024-02-10,February,Eastern Seaboard,Van,Same-Day,40,40,0,0,53.0,4.3,DRV-028
+DEL-0260,2024-02-10,February,Sunbelt,Motorbike,Express,44,44,0,0,39.8,4.5,DRV-020
+DEL-0447,2024-02-11,February,Pacific Coast,Van,Standard,74,74,0,0,68.3,5.0,DRV-012
+DEL-0458,2024-02-11,February,Eastern Seaboard,Van,Standard,80,80,0,0,71.0,4.9,DRV-018
+DEL-0069,2024-02-12,February,Tri-State,Van,Express,40,40,0,0,53.0,4.3,DRV-027
+DEL-0403,2024-02-13,February,Tri-State,Truck,Express,55,58,3,1,88.5,3.7,DRV-040
+DEL-0021,2024-02-13,February,Heartland,Motorbike,Express,80,80,0,0,56.0,4.0,DRV-035
+DEL-0135,2024-02-13,February,Heartland,Truck,Standard,107,107,0,0,108.15,4.7,DRV-006
+DEL-0245,2024-02-14,February,Heartland,Van,Standard,84,84,0,0,72.8,4.2,DRV-031
+DEL-0345,2024-02-14,February,Eastern Seaboard,Van,Express,61,61,0,0,62.45,4.9,DRV-017
+DEL-0229,2024-02-14,February,Sunbelt,Van,Standard,90,90,0,0,75.5,4.8,DRV-036
+DEL-0130,2024-02-14,February,Pacific Coast,Motorbike,Standard,76,76,0,0,54.2,4.2,DRV-040
+DEL-0189,2024-02-15,February,Sunbelt,Truck,Same-Day,47,63,16,1,101.15,3.7,DRV-034
+DEL-0292,2024-02-16,February,Heartland,Motorbike,Same-Day,48,48,0,0,41.6,4.8,DRV-011
+DEL-0335,2024-02-18,February,Pacific Coast,Truck,Standard,91,91,0,0,100.95,4.5,DRV-008
+DEL-0122,2024-02-18,February,Pacific Coast,Motorbike,Express,52,52,0,0,43.4,4.1,DRV-017
+DEL-0060,2024-02-18,February,Pacific Coast,Truck,Express,73,73,0,0,92.85,4.3,DRV-007
+DEL-0129,2024-02-19,February,Heartland,Van,Express,59,62,3,1,65.3,3.2,DRV-027
+DEL-0064,2024-02-19,February,Tri-State,Van,Standard,92,92,0,0,76.4,4.0,DRV-013
+DEL-0041,2024-02-20,February,Heartland,Motorbike,Same-Day,35,35,0,0,35.75,4.8,DRV-010
+DEL-0181,2024-02-20,February,Pacific Coast,Truck,Standard,88,98,10,1,112.1,4.0,DRV-005
+DEL-0488,2024-02-21,February,Tri-State,Truck,Express,71,71,0,0,91.95,4.3,DRV-003
+DEL-0393,2024-02-22,February,Tri-State,Van,Same-Day,38,38,0,0,52.1,4.4,DRV-020
+DEL-0257,2024-02-22,February,Pacific Coast,Van,Express,65,65,0,0,64.25,4.6,DRV-018
+DEL-0106,2024-02-23,February,Tri-State,Truck,Standard,108,108,0,0,108.6,4.7,DRV-016
+DEL-0339,2024-02-23,February,Tri-State,Motorbike,Standard,62,71,9,1,59.15,4.0,DRV-038
+DEL-0070,2024-02-24,February,Pacific Coast,Truck,Standard,110,111,1,1,110.75,4.2,DRV-026
+DEL-0442,2024-02-24,February,Eastern Seaboard,Van,Standard,91,150,59,1,149.7,1.9,DRV-022
+DEL-0049,2024-02-24,February,Heartland,Truck,Express,62,62,0,0,87.9,4.3,DRV-035
+DEL-0026,2024-02-24,February,Eastern Seaboard,Van,Standard,102,102,0,0,80.9,4.5,DRV-037
+DEL-0088,2024-02-24,February,Tri-State,Motorbike,Standard,77,77,0,0,54.65,4.9,DRV-033
+DEL-0209,2024-02-25,February,Sunbelt,Van,Standard,100,100,0,0,80.0,4.0,DRV-031
+DEL-0004,2024-02-25,February,Tri-State,Van,Standard,95,95,0,0,77.75,4.3,DRV-015
+DEL-0468,2024-02-25,February,Tri-State,Truck,Standard,102,102,0,0,105.9,4.6,DRV-010
+DEL-0054,2024-02-26,February,Sunbelt,Motorbike,Same-Day,42,42,0,0,38.9,4.0,DRV-001
+DEL-0162,2024-02-26,February,Heartland,Motorbike,Express,56,56,0,0,45.2,4.4,DRV-032
+DEL-0173,2024-02-27,February,Tri-State,Truck,Standard,99,159,60,1,179.55,2.5,DRV-005
+DEL-0443,2024-02-27,February,Pacific Coast,Van,Standard,87,87,0,0,74.15,4.1,DRV-009
+DEL-0052,2024-02-27,February,Tri-State,Van,Standard,95,127,32,1,117.75,2.0,DRV-005
+DEL-0463,2024-02-27,February,Tri-State,Truck,Standard,86,86,0,0,98.7,4.6,DRV-002
+DEL-0016,2024-02-28,February,Tri-State,Motorbike,Standard,73,115,42,1,105.35,2.7,DRV-019
+DEL-0397,2024-02-28,February,Heartland,Motorbike,Standard,80,80,0,0,56.0,4.7,DRV-033
+DEL-0321,2024-02-29,February,Tri-State,Motorbike,Express,56,56,0,0,45.2,4.9,DRV-031
+DEL-0232,2024-02-29,February,Eastern Seaboard,Van,Standard,85,85,0,0,73.25,4.5,DRV-019
+DEL-0295,2024-02-29,February,Heartland,Van,Express,50,50,0,0,57.5,4.7,DRV-030
+DEL-0207,2024-02-29,February,Eastern Seaboard,Truck,Express,72,80,8,1,102.4,3.0,DRV-008
+DEL-0057,2024-03-01,March,Tri-State,Motorbike,Standard,78,78,0,0,55.1,4.7,DRV-018
+DEL-0137,2024-03-01,March,Eastern Seaboard,Van,Express,54,54,0,0,59.3,4.0,DRV-020
+DEL-0344,2024-03-01,March,Tri-State,Truck,Express,77,77,0,0,94.65,4.0,DRV-038
+DEL-0462,2024-03-01,March,Heartland,Truck,Standard,108,108,0,0,108.6,5.0,DRV-025
+DEL-0045,2024-03-02,March,Sunbelt,Van,Express,62,65,3,1,66.65,3.8,DRV-037
+DEL-0483,2024-03-02,March,Tri-State,Truck,Standard,120,120,0,0,114.0,4.9,DRV-007
+DEL-0294,2024-03-02,March,Heartland,Motorbike,Standard,95,95,0,0,62.75,4.2,DRV-032
+DEL-0451,2024-03-02,March,Sunbelt,Motorbike,Express,60,109,49,1,108.25,2.7,DRV-020
+DEL-0405,2024-03-03,March,Pacific Coast,Van,Standard,105,105,0,0,82.25,4.8,DRV-028
+DEL-0142,2024-03-03,March,Pacific Coast,Truck,Express,59,59,0,0,86.55,4.5,DRV-010
+DEL-0029,2024-03-04,March,Eastern Seaboard,Van,Standard,76,86,10,1,81.7,4.1,DRV-036
+DEL-0174,2024-03-04,March,Tri-State,Van,Standard,78,78,0,0,70.1,4.9,DRV-013
+DEL-0150,2024-03-04,March,Pacific Coast,Truck,Express,61,66,5,1,93.7,3.8,DRV-018
+DEL-0145,2024-03-04,March,Tri-State,Motorbike,Express,35,35,0,0,35.75,4.6,DRV-008
+DEL-0428,2024-03-04,March,Sunbelt,Van,Express,70,70,0,0,66.5,4.1,DRV-029
+DEL-0434,2024-03-05,March,Pacific Coast,Truck,Standard,115,115,0,0,111.75,4.6,DRV-039
+DEL-0307,2024-03-05,March,Sunbelt,Motorbike,Standard,67,67,0,0,50.15,5.0,DRV-009
+DEL-0342,2024-03-05,March,Sunbelt,Motorbike,Standard,63,63,0,0,48.35,4.7,DRV-012
+DEL-0394,2024-03-06,March,Sunbelt,Van,Standard,100,100,0,0,80.0,4.0,DRV-019
+DEL-0296,2024-03-06,March,Eastern Seaboard,Truck,Standard,102,102,0,0,105.9,4.7,DRV-001
+DEL-0515,2024-03-07,March,Tri-State,Truck,Express,83,83,0,0,97.35,4.8,DRV-029
+DEL-0118,2024-03-07,March,Tri-State,Van,Express,60,75,15,1,80.75,3.2,DRV-012
+DEL-0100,2024-03-08,March,Sunbelt,Motorbike,Standard,75,75,0,0,53.75,4.1,DRV-011
+DEL-0039,2024-03-08,March,Pacific Coast,Van,Express,65,65,0,0,64.25,4.9,DRV-033
+DEL-0048,2024-03-08,March,Heartland,Van,Express,50,50,0,0,57.5,4.8,DRV-034
+DEL-0281,2024-03-08,March,Tri-State,Truck,Standard,118,133,15,1,131.85,3.0,DRV-022
+DEL-0496,2024-03-09,March,Eastern Seaboard,Motorbike,Standard,91,131,40,1,110.95,1.6,DRV-006
+DEL-0095,2024-03-10,March,Heartland,Van,Standard,100,100,0,0,80.0,4.1,DRV-019
+DEL-0313,2024-03-10,March,Heartland,Motorbike,Express,54,54,0,0,44.3,4.2,DRV-011
+DEL-0378,2024-03-10,March,Tri-State,Van,Standard,91,91,0,0,75.95,4.1,DRV-020
+DEL-0341,2024-03-11,March,Heartland,Van,Express,54,59,5,1,65.55,3.8,DRV-010
+DEL-0355,2024-03-11,March,Tri-State,Van,Standard,96,98,2,1,80.7,3.1,DRV-040
+DEL-0001,2024-03-11,March,Tri-State,Van,Standard,79,80,1,1,71.8,4.0,DRV-016
+DEL-0374,2024-03-12,March,Eastern Seaboard,Van,Same-Day,37,37,0,0,51.65,4.8,DRV-037
+DEL-0115,2024-03-12,March,Pacific Coast,Truck,Express,51,51,0,0,82.95,4.8,DRV-005
+DEL-0090,2024-03-13,March,Sunbelt,Truck,Express,82,82,0,0,96.9,4.9,DRV-011
+DEL-0450,2024-03-13,March,Pacific Coast,Motorbike,Standard,76,82,6,1,61.7,3.3,DRV-029
+DEL-0453,2024-03-13,March,Pacific Coast,Truck,Standard,95,168,73,1,194.0,2.9,DRV-025
+DEL-0132,2024-03-14,March,Tri-State,Truck,Standard,119,124,5,1,119.8,3.3,DRV-014
+DEL-0516,2024-03-14,March,Sunbelt,Motorbike,Standard,72,72,0,0,52.4,4.1,DRV-032
+DEL-0258,2024-03-14,March,Heartland,Van,Express,69,69,0,0,66.05,4.9,DRV-029
+DEL-0470,2024-03-14,March,Pacific Coast,Van,Standard,92,92,0,0,76.4,4.7,DRV-016
+DEL-0520,2024-03-15,March,Heartland,Motorbike,Same-Day,34,34,0,0,35.3,4.7,DRV-020
+DEL-0444,2024-03-16,March,Sunbelt,Van,Standard,106,108,2,1,85.2,4.1,DRV-007
+DEL-0357,2024-03-16,March,Heartland,Motorbike,Standard,72,72,0,0,52.4,4.1,DRV-030
+DEL-0074,2024-03-16,March,Sunbelt,Van,Standard,100,100,0,0,80.0,4.0,DRV-014
+DEL-0314,2024-03-16,March,Eastern Seaboard,Truck,Standard,124,125,1,1,117.05,3.6,DRV-022
+DEL-0303,2024-03-16,March,Eastern Seaboard,Motorbike,Standard,83,107,24,1,87.35,2.6,DRV-002
+DEL-0498,2024-03-16,March,Sunbelt,Motorbike,Standard,77,137,60,1,129.65,2.6,DRV-021
+DEL-0183,2024-03-18,March,Tri-State,Motorbike,Standard,75,75,0,0,53.75,4.7,DRV-039
+DEL-0300,2024-03-18,March,Eastern Seaboard,Truck,Standard,118,118,0,0,113.1,4.0,DRV-013
+DEL-0324,2024-03-18,March,Pacific Coast,Motorbike,Express,52,79,27,1,77.15,2.2,DRV-027
+DEL-0105,2024-03-19,March,Sunbelt,Van,Same-Day,47,67,20,1,81.15,3.1,DRV-024
+DEL-0179,2024-03-20,March,Tri-State,Van,Same-Day,44,149,105,1,186.05,2.9,DRV-007
+DEL-0127,2024-03-20,March,Eastern Seaboard,Motorbike,Express,51,51,0,0,42.95,4.5,DRV-027
+DEL-0050,2024-03-20,March,Sunbelt,Motorbike,Standard,78,78,0,0,55.1,4.4,DRV-026
+DEL-0436,2024-03-20,March,Sunbelt,Truck,Standard,94,94,0,0,102.3,4.3,DRV-026
+DEL-0384,2024-03-20,March,Sunbelt,Truck,Standard,119,173,54,1,181.05,2.3,DRV-021
+DEL-0180,2024-03-20,March,Heartland,Van,Standard,98,98,0,0,79.1,4.9,DRV-037
+DEL-0084,2024-03-21,March,Sunbelt,Motorbike,Standard,78,78,0,0,55.1,4.3,DRV-016
+DEL-0083,2024-03-21,March,Heartland,Motorbike,Standard,72,72,0,0,52.4,4.8,DRV-017
+DEL-0025,2024-03-21,March,Sunbelt,Van,Same-Day,50,50,0,0,57.5,4.8,DRV-026
+DEL-0489,2024-03-21,March,Sunbelt,Van,Express,65,65,0,0,64.25,4.8,DRV-020
+DEL-0416,2024-03-21,March,Eastern Seaboard,Motorbike,Express,73,73,0,0,52.85,4.6,DRV-010
+DEL-0275,2024-03-22,March,Pacific Coast,Van,Standard,77,77,0,0,69.65,4.5,DRV-031
+DEL-0147,2024-03-22,March,Heartland,Motorbike,Standard,71,71,0,0,51.95,4.9,DRV-029
+DEL-0242,2024-03-23,March,Tri-State,Truck,Standard,96,96,0,0,103.2,4.9,DRV-039
+DEL-0273,2024-03-23,March,Pacific Coast,Truck,Standard,93,196,103,1,230.6,2.2,DRV-013
+DEL-0043,2024-03-23,March,Tri-State,Motorbike,Standard,64,64,0,0,48.8,4.7,DRV-032
+DEL-0170,2024-03-24,March,Sunbelt,Truck,Express,62,62,0,0,87.9,4.8,DRV-022
+DEL-0356,2024-03-24,March,Heartland,Motorbike,Same-Day,52,52,0,0,43.4,4.3,DRV-025
+DEL-0195,2024-03-24,March,Tri-State,Truck,Standard,100,100,0,0,105.0,4.0,DRV-012
+DEL-0499,2024-03-24,March,Tri-State,Van,Express,62,62,0,0,62.9,4.4,DRV-019
+DEL-0289,2024-03-24,March,Tri-State,Van,Standard,104,173,69,1,168.05,1.6,DRV-004
+DEL-0024,2024-03-24,March,Sunbelt,Motorbike,Standard,80,89,9,1,67.25,3.2,DRV-004
+DEL-0340,2024-03-25,March,Sunbelt,Van,Standard,89,89,0,0,75.05,4.6,DRV-010
+DEL-0110,2024-03-26,March,Sunbelt,Motorbike,Standard,83,83,0,0,57.35,4.1,DRV-027
+DEL-0153,2024-03-26,March,Sunbelt,Truck,Standard,111,111,0,0,109.95,4.6,DRV-021
+DEL-0484,2024-03-26,March,Heartland,Motorbike,Express,40,40,0,0,38.0,4.7,DRV-009
+DEL-0431,2024-03-27,March,Pacific Coast,Truck,Standard,98,121,23,1,132.85,2.8,DRV-039
+DEL-0164,2024-03-27,March,Tri-State,Truck,Standard,103,137,34,1,148.85,2.4,DRV-026
+DEL-0407,2024-03-27,March,Pacific Coast,Truck,Standard,95,95,0,0,102.75,4.6,DRV-015
+DEL-0096,2024-03-28,March,Heartland,Van,Standard,89,89,0,0,75.05,4.6,DRV-014
+DEL-0519,2024-03-29,March,Eastern Seaboard,Motorbike,Standard,89,91,2,1,62.55,3.4,DRV-005
+DEL-0011,2024-03-29,March,Tri-State,Truck,Standard,141,228,87,1,232.2,2.8,DRV-039
+DEL-0120,2024-03-29,March,Heartland,Truck,Standard,114,142,28,1,146.3,2.4,DRV-021
+DEL-0089,2024-03-30,March,Eastern Seaboard,Van,Standard,98,156,58,1,151.6,2.4,DRV-005
+DEL-0373,2024-03-30,March,Sunbelt,Van,Standard,88,118,30,1,112.1,2.1,DRV-036
+DEL-0248,2024-03-30,March,Tri-State,Truck,Express,65,71,6,1,96.75,3.6,DRV-027
+DEL-0113,2024-03-30,March,Sunbelt,Truck,Same-Day,63,63,0,0,88.35,4.9,DRV-020
+DEL-0398,2024-03-31,March,Heartland,Motorbike,Standard,71,102,31,1,90.7,1.6,DRV-005
+DEL-0196,2024-03-31,March,Pacific Coast,Van,Standard,83,83,0,0,72.35,4.2,DRV-017
+DEL-0306,2024-03-31,March,Sunbelt,Motorbike,Express,49,49,0,0,42.05,4.5,DRV-015
+DEL-0502,2024-03-31,March,Pacific Coast,Van,Standard,100,100,0,0,80.0,4.2,DRV-040
+DEL-0019,2024-03-31,March,Sunbelt,Truck,Express,82,82,0,0,96.9,4.1,DRV-014
+DEL-0302,2024-04-01,April,Pacific Coast,Motorbike,Express,68,68,0,0,50.6,4.4,DRV-037
+DEL-0334,2024-04-01,April,Heartland,Motorbike,Standard,96,96,0,0,63.2,4.0,DRV-004
+DEL-0404,2024-04-02,April,Pacific Coast,Motorbike,Express,64,64,0,0,48.8,4.5,DRV-006
+DEL-0031,2024-04-02,April,Heartland,Truck,Standard,108,108,0,0,108.6,4.3,DRV-015
+DEL-0212,2024-04-02,April,Eastern Seaboard,Van,Standard,100,100,0,0,80.0,4.0,DRV-012
+DEL-0478,2024-04-02,April,Tri-State,Motorbike,Express,48,48,0,0,41.6,4.6,DRV-005
+DEL-0044,2024-04-02,April,Tri-State,Van,Same-Day,57,57,0,0,60.65,4.8,DRV-020
+DEL-0493,2024-04-04,April,Eastern Seaboard,Van,Standard,90,90,0,0,75.5,4.6,DRV-028
+DEL-0452,2024-04-04,April,Pacific Coast,Van,Standard,117,117,0,0,87.65,4.5,DRV-037
+DEL-0290,2024-04-05,April,Eastern Seaboard,Truck,Standard,119,119,0,0,113.55,4.9,DRV-028
+DEL-0366,2024-04-05,April,Pacific Coast,Van,Standard,87,87,0,0,74.15,4.5,DRV-009
+DEL-0430,2024-04-05,April,Sunbelt,Truck,Standard,100,100,0,0,105.0,4.1,DRV-019
+DEL-0438,2024-04-06,April,Eastern Seaboard,Motorbike,Standard,63,63,0,0,48.35,4.5,DRV-022
+DEL-0224,2024-04-07,April,Sunbelt,Motorbike,Express,52,52,0,0,43.4,4.8,DRV-029
+DEL-0169,2024-04-07,April,Tri-State,Truck,Standard,118,139,21,1,139.35,2.8,DRV-021
+DEL-0071,2024-04-07,April,Tri-State,Van,Express,52,56,4,1,63.4,3.3,DRV-001
+DEL-0194,2024-04-07,April,Heartland,Motorbike,Standard,65,65,0,0,49.25,4.7,DRV-022
+DEL-0274,2024-04-08,April,Sunbelt,Motorbike,Same-Day,52,52,0,0,43.4,4.2,DRV-015
+DEL-0508,2024-04-08,April,Eastern Seaboard,Truck,Standard,83,83,0,0,97.35,4.0,DRV-037
+DEL-0480,2024-04-09,April,Heartland,Van,Standard,102,102,0,0,80.9,4.3,DRV-031
+DEL-0481,2024-04-09,April,Tri-State,Motorbike,Express,48,48,0,0,41.6,4.3,DRV-024
+DEL-0514,2024-04-09,April,Pacific Coast,Motorbike,Standard,71,71,0,0,51.95,4.7,DRV-036
+DEL-0166,2024-04-10,April,Heartland,Van,Express,68,138,70,1,153.1,2.6,DRV-038
+DEL-0282,2024-04-11,April,Heartland,Motorbike,Standard,71,71,0,0,51.95,4.5,DRV-006
+DEL-0392,2024-04-11,April,Tri-State,Van,Standard,107,107,0,0,83.15,4.9,DRV-039
+DEL-0352,2024-04-12,April,Tri-State,Truck,Standard,106,106,0,0,107.7,4.6,DRV-028
+DEL-0251,2024-04-12,April,Eastern Seaboard,Motorbike,Express,56,56,0,0,45.2,4.1,DRV-036
+DEL-0202,2024-04-13,April,Eastern Seaboard,Van,Standard,82,82,0,0,71.9,4.4,DRV-016
+DEL-0063,2024-04-13,April,Tri-State,Van,Express,62,62,0,0,62.9,4.4,DRV-022
+DEL-0131,2024-04-13,April,Heartland,Truck,Standard,107,107,0,0,108.15,4.2,DRV-036
+DEL-0199,2024-04-14,April,Tri-State,Van,Standard,96,98,2,1,80.7,3.2,DRV-032
+DEL-0250,2024-04-15,April,Sunbelt,Truck,Standard,110,110,0,0,109.5,5.0,DRV-032
+DEL-0109,2024-04-15,April,Sunbelt,Van,Standard,75,75,0,0,68.75,4.5,DRV-002
+DEL-0311,2024-04-16,April,Eastern Seaboard,Truck,Standard,126,131,5,1,122.95,3.0,DRV-012
+DEL-0156,2024-04-16,April,Sunbelt,Van,Express,56,56,0,0,60.2,4.7,DRV-027
+DEL-0140,2024-04-16,April,Tri-State,Truck,Standard,109,121,12,1,124.05,3.0,DRV-037
+DEL-0477,2024-04-16,April,Sunbelt,Motorbike,Standard,72,72,0,0,52.4,4.5,DRV-012
+DEL-0268,2024-04-16,April,Tri-State,Truck,Standard,113,130,17,1,132.1,3.9,DRV-022
+DEL-0171,2024-04-17,April,Pacific Coast,Truck,Standard,123,130,7,1,124.1,3.9,DRV-017
+DEL-0454,2024-04-17,April,Heartland,Motorbike,Express,26,26,0,0,31.7,4.4,DRV-011
+DEL-0161,2024-04-17,April,Eastern Seaboard,Truck,Standard,101,105,4,1,110.45,4.0,DRV-035
+DEL-0346,2024-04-17,April,Tri-State,Van,Standard,95,119,24,1,107.75,2.2,DRV-034
+DEL-0158,2024-04-17,April,Tri-State,Van,Same-Day,69,69,0,0,66.05,5.0,DRV-025
+DEL-0003,2024-04-18,April,Tri-State,Motorbike,Same-Day,34,39,5,1,41.55,3.4,DRV-003
+DEL-0143,2024-04-18,April,Tri-State,Van,Standard,114,114,0,0,86.3,4.4,DRV-015
+DEL-0497,2024-04-20,April,Pacific Coast,Van,Standard,83,83,0,0,72.35,4.6,DRV-039
+DEL-0061,2024-04-20,April,Tri-State,Motorbike,Express,54,54,0,0,44.3,4.5,DRV-023
+DEL-0358,2024-04-20,April,Heartland,Motorbike,Express,49,49,0,0,42.05,4.5,DRV-007
+DEL-0163,2024-04-21,April,Sunbelt,Truck,Express,86,86,0,0,98.7,4.4,DRV-032
+DEL-0123,2024-04-21,April,Tri-State,Motorbike,Standard,82,82,0,0,56.9,4.2,DRV-001
+DEL-0038,2024-04-21,April,Tri-State,Truck,Standard,101,101,0,0,105.45,4.2,DRV-011
+DEL-0247,2024-04-21,April,Sunbelt,Motorbike,Same-Day,50,50,0,0,42.5,4.2,DRV-032
+DEL-0448,2024-04-22,April,Heartland,Van,Standard,85,85,0,0,73.25,4.2,DRV-003
+DEL-0494,2024-04-22,April,Pacific Coast,Motorbike,Standard,74,74,0,0,53.3,4.7,DRV-025
+DEL-0387,2024-04-23,April,Tri-State,Truck,Standard,118,137,19,1,136.85,3.3,DRV-028
+DEL-0353,2024-04-23,April,Tri-State,Truck,Standard,98,98,0,0,104.1,4.7,DRV-005
+DEL-0388,2024-04-23,April,Pacific Coast,Motorbike,Standard,70,70,0,0,51.5,5.0,DRV-027
+DEL-0501,2024-04-23,April,Sunbelt,Motorbike,Express,50,50,0,0,42.5,4.6,DRV-023
+DEL-0298,2024-04-23,April,Sunbelt,Van,Standard,96,96,0,0,78.2,4.5,DRV-023
+DEL-0246,2024-04-23,April,Heartland,Motorbike,Express,46,46,0,0,40.7,4.1,DRV-018
+DEL-0134,2024-04-23,April,Pacific Coast,Truck,Express,70,110,40,1,141.5,2.6,DRV-014
+DEL-0518,2024-04-23,April,Pacific Coast,Van,Standard,84,84,0,0,72.8,4.4,DRV-006
+DEL-0510,2024-04-23,April,Eastern Seaboard,Truck,Standard,99,166,67,1,188.3,2.2,DRV-005
+DEL-0332,2024-04-23,April,Sunbelt,Truck,Standard,127,129,2,1,119.65,3.7,DRV-016
+DEL-0007,2024-04-24,April,Pacific Coast,Van,Standard,91,93,2,1,78.45,4.1,DRV-038
+DEL-0460,2024-04-25,April,Tri-State,Van,Standard,74,90,16,1,88.3,4.1,DRV-023
+DEL-0360,2024-04-25,April,Sunbelt,Truck,Express,97,97,0,0,103.65,4.7,DRV-015
+DEL-0426,2024-04-25,April,Sunbelt,Van,Express,54,76,22,1,86.8,2.5,DRV-007
+DEL-0361,2024-04-26,April,Pacific Coast,Truck,Standard,105,126,21,1,133.5,3.1,DRV-026
+DEL-0072,2024-04-26,April,Pacific Coast,Truck,Standard,128,128,0,0,117.6,4.7,DRV-019
+DEL-0383,2024-04-26,April,Pacific Coast,Truck,Express,54,54,0,0,84.3,4.5,DRV-022
+DEL-0206,2024-04-26,April,Eastern Seaboard,Motorbike,Express,62,62,0,0,47.9,4.1,DRV-018
+DEL-0279,2024-04-26,April,Tri-State,Motorbike,Express,42,71,29,1,75.15,2.2,DRV-001
+DEL-0233,2024-04-26,April,Eastern Seaboard,Motorbike,Express,60,60,0,0,47.0,4.6,DRV-005
+DEL-0028,2024-04-27,April,Pacific Coast,Motorbike,Express,57,57,0,0,45.65,4.0,DRV-010
+DEL-0012,2024-04-27,April,Eastern Seaboard,Van,Same-Day,57,57,0,0,60.65,4.6,DRV-035
+DEL-0193,2024-04-28,April,Pacific Coast,Van,Standard,98,98,0,0,79.1,4.0,DRV-037
+DEL-0486,2024-04-28,April,Sunbelt,Motorbike,Standard,82,82,0,0,56.9,4.9,DRV-031
+DEL-0168,2024-04-28,April,Pacific Coast,Van,Same-Day,41,41,0,0,53.45,4.2,DRV-012
+DEL-0066,2024-04-28,April,Sunbelt,Truck,Standard,112,112,0,0,110.4,4.4,DRV-016
+DEL-0022,2024-04-28,April,Sunbelt,Van,Standard,81,106,25,1,102.7,2.0,DRV-025
+DEL-0146,2024-04-28,April,Pacific Coast,Van,Standard,99,103,4,1,84.55,3.3,DRV-034
+DEL-0157,2024-04-29,April,Eastern Seaboard,Motorbike,Express,45,45,0,0,40.25,4.3,DRV-027
+DEL-0062,2024-04-29,April,Pacific Coast,Truck,Standard,111,111,0,0,109.95,4.6,DRV-004
+DEL-0239,2024-04-29,April,Pacific Coast,Van,Standard,87,87,0,0,74.15,4.3,DRV-020
+DEL-0177,2024-04-29,April,Heartland,Van,Express,62,62,0,0,62.9,4.6,DRV-017
+DEL-0035,2024-04-29,April,Pacific Coast,Motorbike,Express,58,58,0,0,46.1,4.6,DRV-034
+DEL-0112,2024-04-30,April,Pacific Coast,Van,Standard,94,94,0,0,77.3,4.8,DRV-015
+DEL-0417,2024-04-30,April,Pacific Coast,Van,Express,59,66,7,1,70.3,3.9,DRV-029
+DEL-0265,2024-04-30,April,Pacific Coast,Truck,Standard,110,119,9,1,120.75,3.8,DRV-016
+DEL-0425,2024-05-01,May,Eastern Seaboard,Motorbike,Express,61,83,22,1,74.95,2.3,DRV-033
+DEL-0059,2024-05-01,May,Heartland,Motorbike,Standard,85,85,0,0,58.25,4.7,DRV-016
+DEL-0139,2024-05-01,May,Tri-State,Van,Standard,80,80,0,0,71.0,4.5,DRV-040
+DEL-0217,2024-05-02,May,Eastern Seaboard,Truck,Standard,115,132,17,1,133.0,3.7,DRV-029
+DEL-0456,2024-05-03,May,Tri-State,Motorbike,Standard,77,116,39,1,103.4,1.8,DRV-024
+DEL-0046,2024-05-04,May,Tri-State,Van,Standard,98,118,20,1,104.1,2.7,DRV-005
+DEL-0284,2024-05-04,May,Eastern Seaboard,Motorbike,Standard,67,67,0,0,50.15,4.1,DRV-035
+DEL-0097,2024-05-05,May,Eastern Seaboard,Motorbike,Standard,79,122,43,1,109.3,2.7,DRV-017
+DEL-0187,2024-05-05,May,Tri-State,Truck,Express,69,213,144,1,271.05,2.4,DRV-007
+DEL-0032,2024-05-06,May,Sunbelt,Motorbike,Standard,62,62,0,0,47.9,4.5,DRV-006
+DEL-0305,2024-05-07,May,Tri-State,Motorbike,Standard,79,79,0,0,55.55,4.2,DRV-019
+DEL-0495,2024-05-07,May,Eastern Seaboard,Van,Standard,100,100,0,0,80.0,4.2,DRV-032
+DEL-0473,2024-05-07,May,Tri-State,Van,Express,63,63,0,0,63.35,4.5,DRV-039
+DEL-0240,2024-05-08,May,Pacific Coast,Truck,Standard,98,98,0,1,104.1,5.0,DRV-035
+DEL-0349,2024-05-08,May,Tri-State,Truck,Standard,98,98,0,0,104.1,4.2,DRV-015
+DEL-0479,2024-05-09,May,Heartland,Motorbike,Standard,76,76,0,0,54.2,4.6,DRV-033
+DEL-0148,2024-05-09,May,Heartland,Motorbike,Standard,69,69,0,0,51.05,4.4,DRV-028
+DEL-0422,2024-05-09,May,Heartland,Motorbike,Standard,82,91,9,1,68.15,4.1,DRV-025
+DEL-0121,2024-05-10,May,Pacific Coast,Motorbike,Express,61,61,0,0,47.45,4.6,DRV-008
+DEL-0267,2024-05-10,May,Sunbelt,Motorbike,Express,46,46,0,0,40.7,4.0,DRV-009
+DEL-0409,2024-05-10,May,Tri-State,Motorbike,Same-Day,27,27,0,0,32.15,4.9,DRV-013
+DEL-0348,2024-05-11,May,Pacific Coast,Truck,Express,81,81,0,0,96.45,4.7,DRV-038
+DEL-0389,2024-05-11,May,Eastern Seaboard,Van,Express,60,80,20,1,87.0,2.3,DRV-008
+DEL-0051,2024-05-12,May,Eastern Seaboard,Truck,Same-Day,69,69,0,0,91.05,4.6,DRV-029
+DEL-0144,2024-05-12,May,Sunbelt,Motorbike,Standard,85,85,0,0,58.25,4.4,DRV-030
+DEL-0198,2024-05-12,May,Heartland,Van,Express,58,58,0,0,61.1,4.7,DRV-013
+DEL-0457,2024-05-12,May,Heartland,Van,Standard,85,85,0,0,73.25,4.5,DRV-008
+DEL-0429,2024-05-13,May,Pacific Coast,Motorbike,Standard,86,86,0,0,58.7,4.8,DRV-040
+DEL-0391,2024-05-14,May,Heartland,Truck,Standard,106,106,0,0,107.7,4.4,DRV-020
+DEL-0445,2024-05-14,May,Heartland,Motorbike,Standard,56,56,0,0,45.2,4.9,DRV-003
+DEL-0406,2024-05-14,May,Heartland,Truck,Express,94,104,10,1,114.8,4.1,DRV-006
+DEL-0204,2024-05-15,May,Pacific Coast,Motorbike,Standard,72,72,0,0,52.4,4.5,DRV-023
+DEL-0291,2024-05-15,May,Sunbelt,Van,Express,54,54,0,0,59.3,4.1,DRV-027
+DEL-0077,2024-05-15,May,Pacific Coast,Motorbike,Standard,90,90,0,0,60.5,4.0,DRV-011
+DEL-0092,2024-05-15,May,Heartland,Motorbike,Standard,71,71,0,0,51.95,4.4,DRV-001
+DEL-0511,2024-05-15,May,Heartland,Van,Standard,81,81,0,0,71.45,4.5,DRV-024
+DEL-0382,2024-05-15,May,Tri-State,Motorbike,Express,48,66,18,1,64.1,4.2,DRV-014
+DEL-0283,2024-05-16,May,Eastern Seaboard,Motorbike,Express,60,60,0,0,47.0,4.8,DRV-025
+DEL-0190,2024-05-17,May,Eastern Seaboard,Motorbike,Standard,72,72,0,0,52.4,4.5,DRV-031
+DEL-0117,2024-05-17,May,Pacific Coast,Motorbike,Standard,77,77,0,0,54.65,4.9,DRV-022
+DEL-0271,2024-05-17,May,Sunbelt,Truck,Standard,111,111,0,0,109.95,4.3,DRV-031
+DEL-0318,2024-05-17,May,Tri-State,Truck,Standard,113,113,0,0,110.85,4.7,DRV-008
+DEL-0042,2024-05-18,May,Eastern Seaboard,Van,Standard,96,96,0,0,78.2,4.2,DRV-034
+DEL-0068,2024-05-18,May,Tri-State,Motorbike,Standard,78,78,0,0,55.1,4.5,DRV-001
+DEL-0058,2024-05-18,May,Pacific Coast,Van,Standard,78,102,24,1,100.1,3.2,DRV-009
+DEL-0312,2024-05-18,May,Sunbelt,Van,Express,69,69,0,0,66.05,4.5,DRV-024
+DEL-0075,2024-05-18,May,Tri-State,Motorbike,Standard,80,80,0,0,56.0,4.1,DRV-004
+DEL-0490,2024-05-19,May,Heartland,Truck,Standard,105,105,0,0,107.25,4.7,DRV-031
+DEL-0485,2024-05-19,May,Tri-State,Truck,Standard,111,111,0,0,109.95,4.1,DRV-022
+DEL-0205,2024-05-20,May,Pacific Coast,Motorbike,Same-Day,35,43,8,1,45.75,3.6,DRV-022
+DEL-0067,2024-05-20,May,Tri-State,Truck,Standard,127,151,24,1,147.15,1.6,DRV-007
+DEL-0261,2024-05-21,May,Heartland,Van,Standard,98,98,0,0,79.1,4.6,DRV-027
+DEL-0423,2024-05-21,May,Pacific Coast,Motorbike,Same-Day,31,31,0,0,33.95,4.9,DRV-003
+DEL-0272,2024-05-21,May,Eastern Seaboard,Truck,Same-Day,47,61,14,1,98.65,4.1,DRV-035
+DEL-0073,2024-05-22,May,Pacific Coast,Motorbike,Standard,95,95,0,0,62.75,4.2,DRV-032
+DEL-0107,2024-05-23,May,Tri-State,Truck,Standard,122,122,0,0,114.9,4.0,DRV-027
+DEL-0322,2024-05-23,May,Tri-State,Motorbike,Express,43,43,0,0,39.35,4.6,DRV-021
+DEL-0375,2024-05-23,May,Sunbelt,Truck,Standard,138,138,0,0,122.1,4.2,DRV-040
+DEL-0087,2024-05-24,May,Pacific Coast,Motorbike,Express,51,51,0,0,42.95,4.8,DRV-007
+DEL-0338,2024-05-24,May,Sunbelt,Van,Standard,93,93,0,0,76.85,4.4,DRV-014
+DEL-0221,2024-05-24,May,Sunbelt,Van,Express,66,66,0,0,64.7,4.1,DRV-020
+DEL-0238,2024-05-25,May,Eastern Seaboard,Motorbike,Standard,79,79,0,0,55.55,4.7,DRV-019
+DEL-0080,2024-05-25,May,Pacific Coast,Van,Standard,95,95,0,0,77.75,4.6,DRV-016
+DEL-0401,2024-05-26,May,Heartland,Truck,Standard,111,111,0,0,109.95,4.3,DRV-026
+DEL-0371,2024-05-27,May,Eastern Seaboard,Van,Standard,91,91,0,0,75.95,4.9,DRV-033
+DEL-0220,2024-05-27,May,Pacific Coast,Van,Standard,108,108,0,0,83.6,4.8,DRV-004
+DEL-0414,2024-05-28,May,Pacific Coast,Motorbike,Standard,71,71,0,0,51.95,4.7,DRV-029
+DEL-0270,2024-05-28,May,Eastern Seaboard,Motorbike,Standard,73,113,40,1,102.85,2.7,DRV-032
+DEL-0203,2024-05-28,May,Eastern Seaboard,Motorbike,Standard,62,62,0,0,47.9,4.8,DRV-024
+DEL-0030,2024-05-29,May,Heartland,Truck,Standard,103,103,0,0,106.35,4.7,DRV-028
+DEL-0210,2024-05-30,May,Eastern Seaboard,Motorbike,Standard,81,81,0,0,56.45,4.9,DRV-034
+DEL-0053,2024-05-30,May,Eastern Seaboard,Van,Standard,79,79,0,0,70.55,5.0,DRV-036
+DEL-0225,2024-05-30,May,Pacific Coast,Truck,Standard,90,90,0,0,100.5,4.9,DRV-028
+DEL-0367,2024-05-30,May,Heartland,Van,Express,62,106,44,1,117.9,2.8,DRV-036
+DEL-0191,2024-05-31,May,Pacific Coast,Truck,Standard,83,83,0,0,97.35,4.2,DRV-018
+DEL-0418,2024-05-31,May,Eastern Seaboard,Truck,Same-Day,39,52,13,1,93.8,4.0,DRV-004
+DEL-0197,2024-06-01,June,Eastern Seaboard,Truck,Express,68,100,32,1,130.6,3.0,DRV-018
+DEL-0231,2024-06-01,June,Pacific Coast,Motorbike,Standard,78,78,0,0,55.1,4.7,DRV-031
+DEL-0223,2024-06-01,June,Pacific Coast,Motorbike,Standard,86,86,0,0,58.7,4.8,DRV-040
+DEL-0370,2024-06-02,June,Tri-State,Truck,Express,78,78,0,0,95.1,4.9,DRV-020
+DEL-0500,2024-06-03,June,Eastern Seaboard,Truck,Standard,120,120,0,0,114.0,4.8,DRV-028
+DEL-0412,2024-06-03,June,Sunbelt,Van,Express,59,79,20,1,86.55,3.2,DRV-010
+DEL-0178,2024-06-04,June,Eastern Seaboard,Van,Express,64,64,0,0,63.8,4.7,DRV-039
+DEL-0469,2024-06-04,June,Heartland,Motorbike,Standard,78,78,0,0,55.1,5.0,DRV-034
+DEL-0506,2024-06-04,June,Tri-State,Van,Standard,92,96,4,1,81.4,3.3,DRV-029
+DEL-0133,2024-06-04,June,Pacific Coast,Motorbike,Standard,64,64,0,0,48.8,4.5,DRV-021
+DEL-0354,2024-06-04,June,Tri-State,Truck,Express,92,92,0,0,101.4,4.1,DRV-010
+DEL-0293,2024-06-05,June,Sunbelt,Van,Standard,94,94,0,0,77.3,4.1,DRV-025
+DEL-0330,2024-06-06,June,Tri-State,Truck,Standard,125,135,10,1,128.75,3.4,DRV-027
+DEL-0476,2024-06-06,June,Pacific Coast,Van,Standard,84,115,31,1,111.55,2.9,DRV-023
+DEL-0014,2024-06-07,June,Eastern Seaboard,Motorbike,Express,48,48,0,0,41.6,4.3,DRV-024
+DEL-0226,2024-06-07,June,Eastern Seaboard,Motorbike,Standard,76,76,0,0,54.2,4.9,DRV-004
+DEL-0386,2024-06-07,June,Sunbelt,Van,Express,42,55,13,1,70.15,3.6,DRV-004
+DEL-0472,2024-06-08,June,Pacific Coast,Motorbike,Express,49,49,0,0,42.05,4.1,DRV-030
+DEL-0256,2024-06-08,June,Heartland,Truck,Express,94,94,0,0,102.3,4.9,DRV-032
+DEL-0413,2024-06-09,June,Tri-State,Van,Same-Day,49,49,0,0,57.05,4.2,DRV-032
+DEL-0151,2024-06-09,June,Heartland,Truck,Same-Day,79,79,0,0,95.55,4.8,DRV-016
+DEL-0234,2024-06-09,June,Sunbelt,Truck,Standard,90,141,51,1,164.25,1.5,DRV-038
+DEL-0182,2024-06-09,June,Heartland,Motorbike,Standard,90,90,0,0,60.5,4.4,DRV-016
+DEL-0474,2024-06-10,June,Heartland,Van,Express,57,57,0,0,60.65,4.5,DRV-033
+DEL-0055,2024-06-10,June,Tri-State,Motorbike,Same-Day,42,42,0,0,38.9,4.9,DRV-004
+DEL-0188,2024-06-11,June,Pacific Coast,Truck,Standard,95,130,35,1,146.5,1.9,DRV-030
+DEL-0018,2024-06-11,June,Eastern Seaboard,Truck,Standard,104,113,9,1,118.05,3.4,DRV-024
+DEL-0381,2024-06-11,June,Tri-State,Van,Standard,84,93,9,1,84.05,3.1,DRV-002
+DEL-0415,2024-06-11,June,Heartland,Motorbike,Standard,79,79,0,0,55.55,4.6,DRV-040
+DEL-0098,2024-06-11,June,Tri-State,Van,Standard,85,193,108,1,208.25,2.1,DRV-028
+DEL-0504,2024-06-12,June,Tri-State,Motorbike,Same-Day,31,31,0,0,33.95,4.7,DRV-026
+DEL-0299,2024-06-12,June,Heartland,Truck,Express,83,83,0,0,97.35,4.3,DRV-028
+DEL-0320,2024-06-12,June,Heartland,Truck,Standard,116,116,0,0,112.2,4.4,DRV-024
+DEL-0503,2024-06-12,June,Pacific Coast,Truck,Standard,105,105,0,0,107.25,4.7,DRV-004
+DEL-0116,2024-06-13,June,Eastern Seaboard,Truck,Express,88,88,0,0,99.6,4.4,DRV-033
+DEL-0351,2024-06-13,June,Eastern Seaboard,Truck,Standard,109,109,0,0,109.05,4.5,DRV-002
+DEL-0037,2024-06-13,June,Heartland,Truck,Express,60,82,22,1,114.5,2.7,DRV-022
+DEL-0376,2024-06-13,June,Heartland,Motorbike,Standard,74,74,0,0,53.3,4.1,DRV-036
+DEL-0410,2024-06-14,June,Eastern Seaboard,Truck,Express,83,83,0,0,97.35,4.3,DRV-010
+DEL-0432,2024-06-14,June,Tri-State,Motorbike,Same-Day,37,37,0,0,36.65,4.6,DRV-022
+DEL-0308,2024-06-14,June,Tri-State,Motorbike,Standard,79,79,0,0,55.55,4.3,DRV-003
+DEL-0491,2024-06-14,June,Eastern Seaboard,Van,Standard,85,85,0,0,73.25,4.1,DRV-013
+DEL-0323,2024-06-14,June,Heartland,Van,Express,56,56,0,0,60.2,4.7,DRV-005
+DEL-0186,2024-06-14,June,Tri-State,Motorbike,Standard,76,76,0,0,54.2,4.0,DRV-022
+DEL-0512,2024-06-15,June,Pacific Coast,Truck,Express,75,75,0,0,93.75,4.7,DRV-018
+DEL-0464,2024-06-15,June,Eastern Seaboard,Van,Express,62,62,0,0,62.9,4.4,DRV-022
+DEL-0006,2024-06-15,June,Sunbelt,Motorbike,Express,45,45,0,0,40.25,4.5,DRV-035
+DEL-0424,2024-06-15,June,Pacific Coast,Motorbike,Standard,59,59,0,0,46.55,4.4,DRV-013
+DEL-0359,2024-06-15,June,Tri-State,Motorbike,Same-Day,42,42,0,0,38.9,4.3,DRV-036
+DEL-0027,2024-06-16,June,Eastern Seaboard,Van,Express,57,63,6,1,68.15,3.5,DRV-032
+DEL-0280,2024-06-16,June,Sunbelt,Truck,Standard,107,107,0,0,108.15,4.1,DRV-010
+DEL-0372,2024-06-17,June,Sunbelt,Van,Express,59,59,0,0,61.55,4.8,DRV-031
+DEL-0377,2024-06-17,June,Tri-State,Motorbike,Standard,81,81,0,0,56.45,4.3,DRV-018
+DEL-0380,2024-06-17,June,Sunbelt,Motorbike,Standard,66,66,0,0,49.7,4.5,DRV-026
+DEL-0254,2024-06-17,June,Heartland,Van,Standard,92,92,0,0,76.4,4.8,DRV-035
+DEL-0082,2024-06-17,June,Tri-State,Truck,Standard,133,133,0,0,119.85,4.9,DRV-038
+DEL-0350,2024-06-17,June,Heartland,Van,Express,81,81,0,0,71.45,4.2,DRV-034
+DEL-0336,2024-06-18,June,Pacific Coast,Van,Express,44,44,0,0,54.8,4.8,DRV-014
+DEL-0136,2024-06-18,June,Eastern Seaboard,Motorbike,Standard,75,87,12,1,68.75,3.6,DRV-040
+DEL-0126,2024-06-18,June,Heartland,Truck,Express,70,70,0,0,91.5,4.6,DRV-008
+DEL-0185,2024-06-18,June,Heartland,Truck,Standard,76,76,0,0,94.2,4.4,DRV-024
+DEL-0228,2024-06-18,June,Sunbelt,Truck,Same-Day,56,56,0,0,85.2,4.9,DRV-006
+DEL-0276,2024-06-18,June,Pacific Coast,Truck,Same-Day,71,122,51,1,155.7,2.8,DRV-010
+DEL-0093,2024-06-18,June,Heartland,Truck,Standard,122,122,0,0,114.9,4.8,DRV-007
+DEL-0363,2024-06-19,June,Pacific Coast,Truck,Standard,107,107,0,0,108.15,4.3,DRV-017
+DEL-0369,2024-06-19,June,Pacific Coast,Truck,Standard,86,86,0,0,98.7,4.4,DRV-028
+DEL-0249,2024-06-20,June,Eastern Seaboard,Truck,Standard,98,98,0,0,104.1,4.3,DRV-007
+DEL-0440,2024-06-20,June,Tri-State,Motorbike,Express,66,90,24,1,79.7,1.7,DRV-028
+DEL-0368,2024-06-20,June,Heartland,Truck,Express,68,77,9,1,101.85,3.3,DRV-008
+DEL-0176,2024-06-20,June,Sunbelt,Truck,Express,104,104,0,0,106.8,4.6,DRV-008
+DEL-0328,2024-06-20,June,Pacific Coast,Truck,Standard,113,113,0,0,110.85,4.8,DRV-035
+DEL-0316,2024-06-21,June,Sunbelt,Motorbike,Standard,76,76,0,0,54.2,5.0,DRV-026
+DEL-0319,2024-06-21,June,Pacific Coast,Truck,Standard,97,97,0,0,103.65,5.0,DRV-017
+DEL-0505,2024-06-22,June,Eastern Seaboard,Motorbike,Standard,71,71,0,0,51.95,4.4,DRV-011
+DEL-0297,2024-06-22,June,Pacific Coast,Truck,Standard,94,94,0,0,102.3,4.1,DRV-035
+DEL-0449,2024-06-22,June,Pacific Coast,Truck,Standard,114,114,0,0,111.3,4.3,DRV-016
+DEL-0020,2024-06-23,June,Eastern Seaboard,Motorbike,Express,54,54,0,0,44.3,4.6,DRV-005
+DEL-0364,2024-06-24,June,Eastern Seaboard,Van,Express,51,51,0,0,57.95,4.9,DRV-031
+DEL-0333,2024-06-24,June,Eastern Seaboard,Van,Express,53,53,0,0,58.85,4.9,DRV-024
+DEL-0124,2024-06-24,June,Heartland,Motorbike,Standard,88,99,11,1,73.35,3.7,DRV-013
+DEL-0331,2024-06-25,June,Eastern Seaboard,Van,Standard,81,81,0,0,71.45,4.2,DRV-024
+DEL-0023,2024-06-25,June,Eastern Seaboard,Motorbike,Standard,75,75,0,0,53.75,4.8,DRV-036
+DEL-0200,2024-06-25,June,Heartland,Van,Standard,87,87,0,0,74.15,4.6,DRV-031
+DEL-0288,2024-06-26,June,Pacific Coast,Van,Standard,89,89,0,0,75.05,4.8,DRV-020
+DEL-0155,2024-06-26,June,Sunbelt,Truck,Standard,98,213,115,1,247.85,2.0,DRV-010
+DEL-0141,2024-06-27,June,Sunbelt,Motorbike,Standard,71,126,55,1,120.7,2.5,DRV-025
+DEL-0215,2024-06-27,June,Heartland,Truck,Express,79,79,0,0,95.55,4.7,DRV-009
+DEL-0128,2024-06-27,June,Eastern Seaboard,Truck,Same-Day,64,64,0,0,88.8,4.3,DRV-019
+DEL-0439,2024-06-28,June,Sunbelt,Motorbike,Standard,76,76,0,0,54.2,4.7,DRV-034
+DEL-0264,2024-06-29,June,Eastern Seaboard,Motorbike,Standard,73,73,0,0,52.85,4.9,DRV-018
+DEL-0015,2024-06-29,June,Heartland,Van,Standard,93,201,108,1,211.85,2.8,DRV-005
+DEL-0287,2024-06-29,June,Tri-State,Motorbike,Standard,74,87,13,1,69.55,3.2,DRV-007
+DEL-0091,2024-06-29,June,Pacific Coast,Motorbike,Standard,74,74,0,0,53.3,5.0,DRV-020
+DEL-0101,2024-06-29,June,Pacific Coast,Motorbike,Standard,76,79,3,1,57.95,3.1,DRV-028
+DEL-0213,2024-06-30,June,Eastern Seaboard,Van,Standard,87,87,0,0,74.15,4.2,DRV-035
+DEL-0437,2024-06-30,June,Sunbelt,Motorbike,Same-Day,34,34,0,0,35.3,4.8,DRV-006
